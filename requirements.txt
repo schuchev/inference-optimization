@@ -1,0 +1,14 @@
+fastapi==0.101.0
+uvicorn==0.23.1
+
+sentence-transformers==2.2.2
+transformers==4.42.2
+torch==2.1.1
+
+onnx==1.15.1
+onnxruntime==1.15.1
+optimum[onnxruntime]==2.8.0
+
+numpy==1.26.2
+psutil==5.9.5
+requests==2.32.5
